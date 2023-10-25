@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 import altair as alt
 
-data = pd.read_csv("D:\\PowerUP\\products.csv")
+data = pd.read_csv("products.csv")
 df = data.copy()
 df['Product_Cost_$'] = df['Product_Cost'].str.replace('$','').astype(float)
 df['Product_Price_$'] = df['Product_Price'].str.replace('$','').astype(float)
@@ -13,10 +13,10 @@ df['Product_Price_$'] = df['Product_Price'].str.replace('$','').astype(float)
 
 
 
-data2 = pd.read_csv("D:\\PowerUP\\stores.csv")
+data2 = pd.read_csv("stores.csv")
 #st.write(data2)
 
-data3 = pd.read_csv("D:\\PowerUP\\inventory.csv")
+data3 = pd.read_csv("inventory.csv")
 #st.write(data3)
 
 df = df.drop(columns = ['Product_Cost','Product_Price'])
