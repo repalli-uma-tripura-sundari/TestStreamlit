@@ -1,0 +1,51 @@
+Store_ID,Store_Name,Store_City,Store_Location,Store_Open_Date
+1,ABC Toys Guadalajara 1,Guadalajara,Residential,9/18/1992
+2,ABC Toys Monterrey 1,Monterrey,Residential,4/27/1995
+3,ABC Toys Guadalajara 2,Guadalajara,Commercial,12/27/1999
+4,ABC Toys Saltillo 1,Saltillo,Downtown,1/1/2000
+5,ABC Toys La Paz 1,La Paz,Downtown,5/31/2001
+6,ABC Toys Mexicali 1,Mexicali,Commercial,12/13/2003
+7,ABC Toys Monterrey 2,Monterrey,Downtown,12/25/2003
+8,ABC Toys Pachuca 1,Pachuca,Downtown,10/14/2004
+9,ABC Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,10/15/2004
+10,ABC Toys Campeche 1,Campeche,Downtown,1/14/2005
+11,ABC Toys Cuernavaca 1,Cuernavaca,Downtown,4/19/2005
+12,ABC Toys Chetumal 1,Chetumal,Downtown,5/5/2006
+13,ABC Toys Mexicali 2,Mexicali,Downtown,8/30/2006
+14,ABC Toys Guanajuato 1,Guanajuato,Downtown,1/31/2007
+15,ABC Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,3/5/2007
+16,ABC Toys San Luis Potosi 1,San Luis Potosi,Downtown,5/19/2007
+17,ABC Toys Toluca 1,Toluca,Downtown,12/9/2007
+18,ABC Toys Merida 1,Merida,Downtown,8/22/2008
+19,ABC Toys Puebla 1,Puebla,Commercial,12/16/2008
+20,ABC Toys Zacatecas 1,Zacatecas,Downtown,5/29/2009
+21,ABC Toys Santiago 1,Santiago,Downtown,11/23/2009
+22,ABC Toys Guanajuato 2,Guanajuato,Commercial,3/29/2010
+23,ABC Toys Chihuahua 1,Chihuahua,Commercial,6/12/2010
+24,ABC Toys Aguascalientes 1,Aguascalientes,Downtown,7/31/2010
+25,ABC Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,9/8/2010
+26,ABC Toys Campeche 2,Campeche,Commercial,9/15/2010
+27,ABC Toys Oaxaca 1,Oaxaca,Downtown,10/2/2010
+28,ABC Toys Puebla 2,Puebla,Downtown,4/1/2011
+29,ABC Toys Xalapa 1,Xalapa,Commercial,6/21/2011
+30,ABC Toys Guadalajara 3,Guadalajara,Airport,10/20/2011
+31,ABC Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,5/4/2012
+32,ABC Toys Hermosillo 1,Hermosillo,Residential,8/31/2012
+33,ABC Toys Monterrey 3,Monterrey,Airport,3/17/2013
+34,ABC Toys Villahermosa 1,Villahermosa,Downtown,6/7/2013
+35,ABC Toys Chilpancingo 1,Chilpancingo,Downtown,6/11/2013
+36,ABC Toys Morelia 1,Morelia,Downtown,7/1/2013
+37,ABC Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,11/28/2013
+38,ABC Toys Chihuahua 2,Chihuahua,Downtown,3/18/2014
+39,ABC Toys Xalapa 2,Xalapa,Downtown,4/21/2014
+40,ABC Toys Toluca 2,Toluca,Commercial,5/27/2014
+41,ABC Toys Hermosillo 2,Hermosillo,Downtown,6/1/2014
+42,ABC Toys Hermosillo 3,Hermosillo,Commercial,6/27/2014
+43,ABC Toys Durango 1,Durango,Downtown,6/30/2014
+44,ABC Toys Puebla 3,Puebla,Residential,12/27/2014
+45,ABC Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,6/21/2015
+46,ABC Toys Guadalajara 4,Guadalajara,Downtown,10/31/2015
+47,ABC Toys Monterrey 4,Monterrey,Commercial,11/21/2015
+48,ABC Toys Saltillo 2,Saltillo,Commercial,3/23/2016
+49,ABC Toys Culiacan 1,Culiacan,Downtown,5/10/2016
+50,ABC Toys Guanajuato 3,Guanajuato,Residential,5/18/2016
